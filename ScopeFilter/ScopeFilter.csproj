@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <Authors>MaxMeng</Authors>
+    <PackageLicenseUrl>https://github.com/Bonelol/ScopeFilter/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>MaxMeng</Copyright>
+    <PackageProjectUrl>https://github.com/Bonelol/ScopeFilter</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
