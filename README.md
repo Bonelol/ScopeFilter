@@ -1,6 +1,6 @@
 # ScopeFilter
 
-Apply filters to queries just like global filters, but filters can be not same within different requests.
+Apply filters to queries just like [Global Query Filters](https://docs.microsoft.com/en-us/ef/core/querying/filters), filters can be changed based on each request context; for example, it is able to include or exclude inactive items base on user's roles.
 
 How to use:
 
